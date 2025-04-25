@@ -1,4 +1,3 @@
-# Updated Multi-Omics Integration App with Cluster-Based Enrichment and UMAP Enhancements
 import os
 import tempfile
 import requests
