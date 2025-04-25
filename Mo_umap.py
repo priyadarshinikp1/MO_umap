@@ -18,11 +18,11 @@ import umap
 # -----------------------------
 st.set_page_config(page_title="MO_UMAP App", layout="wide")
 st.image("https://raw.githubusercontent.com/priyadarshinikp1/Multiomics-Integrator-app/main/logo.png", width=200)
-st.title("🧬 Multi-Omics Statistical Integration with UMAP Vizzhy App")
+st.title("Multi-Omics Statistical Integration with UMAP Vizzhy App")
 
 with st.sidebar:
     st.markdown("---")
-    st.markdown("**👨‍💻 Created by: PRIYADARSHINI**")
+    st.markdown("**Developed by: PRIYADARSHINI**")
     st.markdown("[LinkedIn](https://www.linkedin.com/in/priyadarshini24) | [GitHub](https://github.com/priyadarshinikp1)")
 
 
