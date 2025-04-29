@@ -1,4 +1,4 @@
-# Multi-Omics Statistical Integration with UMAP Vizzhy App
+# Multi-Omics Statistical Integration with UMAP App- VIZZHY
 
 ## Overview
 
